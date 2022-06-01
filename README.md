@@ -1,3 +1,6 @@
+This is my codealong that goes with the [Scrimba "Learn React for free" tutorial](https://scrimba.com/learn/learnreact).
+
+<hr />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
